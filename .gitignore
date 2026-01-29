@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/plenera-api/CopilotIndices/17.12.38.29086/CodeChunks.db
+/.vs/plenera-api/CopilotIndices/17.12.38.29086/CodeChunks.db-shm
+/.vs/plenera-api/CopilotIndices/17.12.38.29086/CodeChunks.db-wal
+/.vs/plenera-api/CopilotIndices/17.12.38.29086/SemanticSymbols.db
+/.vs/plenera-api/CopilotIndices/17.12.38.29086/SemanticSymbols.db-shm
+/.vs/plenera-api/CopilotIndices/17.12.38.29086/SemanticSymbols.db-wal
