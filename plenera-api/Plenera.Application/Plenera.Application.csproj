@@ -10,4 +10,9 @@
     <ProjectReference Include="..\Plenera.Domain\Plenera.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Common\" />
+    <Folder Include="Prompts\" />
+  </ItemGroup>
+
 </Project>
